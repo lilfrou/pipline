@@ -7,4 +7,3 @@
   <name>project1</name>
   
 </project>
-l Maven settings.xml' and 'Maven settings.xml' have built-in support for the Credentials Plugin. When the plugin serves the settings.xml to the maven execution, the credentials get injected. This functionality is only available in the 
